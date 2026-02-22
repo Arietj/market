@@ -1,13 +1,14 @@
+# Ignore virtual environment directories
 venv/
 .pylintrc
-__pychache__/
+__pycache__/
 
 .vscode
 .idea
 .env
 django.log
-secuirty.log
+security.log
 
-db.sqllite3
+db.sqlite3
 media/
 debug.log
